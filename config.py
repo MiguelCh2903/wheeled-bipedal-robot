@@ -1,0 +1,4 @@
+HOST='localhost'
+PORT=8888
+
+MAX_DEQUE_LEN=2
